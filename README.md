@@ -9,5 +9,5 @@
 <span style="text-align:justify;">Wearable and Implantable Sensors was one of the most intriguing course during my Masters degree. At the end, I would recommend students to take EE526, if they want to learn something unconventional and unorthodox. <br></span>
   <br>
 </div>
-<img src="page1.jpg"  width="450" height="1000"/>  <img src="page2.jpg"  width="450" height="1000"/>
+<img src="page1.jpg"  width="500" height="1000"/>  <img src="page2.jpg"  width="500" height="1000"/>
 
