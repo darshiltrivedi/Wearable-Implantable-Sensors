@@ -10,5 +10,5 @@
   <br>
 </div>
 <div>
-  <img src="page1.jpg"  width="500" height="1000"/> <img src="page2.jpg"  width="500" height="1000"/>
+  <img src="page1.jpg"  width="450" height="1000"/>  <img src="page2.jpg"  width="450" height="1000"/>
 </div>
