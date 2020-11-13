@@ -10,6 +10,6 @@
   <br>
 </div>
 <div>
-  <img src="page1.jpg"/>
-  <img src="page2.jpg"/>
+  <img src="page1.jpg"  width="200" height="40"/>
+  <img src="page2.jpg" width="200" height="40"/>
 </div>
